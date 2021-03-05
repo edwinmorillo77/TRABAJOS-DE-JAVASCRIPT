@@ -10,8 +10,13 @@ ACÁ SE SUBIRAN LAS ASIGNACIONES DE JAVASCRIPT
           
        ##   Solución:
           
-       ### function multiply(a, b){
-            return a * b;
-          }
+      var valor = multiply(4, 3);   
+      function multiply(a, b)  
+      
+      {
+           return a * b;            
+                                }
+                                
+    console.log(valor)
           
           
